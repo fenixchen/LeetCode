@@ -6,7 +6,8 @@ public class LeetCode {
 			// "ContainsDup",
 			// "KthSmallestInBst",
 			// "KthLargest",
-			"QSort", };
+			// "QSort",
+			"PeakElement", };
 
 	public static void main(String[] args)
 			throws ClassNotFoundException, InstantiationException, IllegalAccessException {
