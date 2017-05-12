@@ -1,13 +1,16 @@
 package study;
 
-public class LeetCode {
+public class Main {
 	private static String solutionArray[] = {
 			// "RemoveNthFromLast",
 			// "ContainsDup",
 			// "KthSmallestInBst",
 			// "KthLargest",
 			// "QSort",
-			"PeakElement", };
+			// "PeakElement",
+			// "PowerOf2"
+			// "DuplicatedNum",
+			"RotateArray" };
 
 	public static void main(String[] args)
 			throws ClassNotFoundException, InstantiationException, IllegalAccessException {
