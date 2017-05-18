@@ -10,7 +10,10 @@ public class Main {
 			// "PeakElement",
 			// "PowerOf2"
 			// "DuplicatedNum",
-			"RotateArray" };
+			// "RotateArray" ,
+			// "MaxMinDepthOfBinaryTree",
+			// "ReverseInt",
+			"ReverseLinkList" };
 
 	public static void main(String[] args)
 			throws ClassNotFoundException, InstantiationException, IllegalAccessException {
